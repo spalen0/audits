@@ -1,6 +1,6 @@
 # 🔍 Security Audits
 
-Security audits done for yAudit/Electisec
+Comprehensive security audits conducted by yAudit/Electisec
 
 ---
 
@@ -9,8 +9,10 @@ Security audits done for yAudit/Electisec
 | Project | Report | Type |
 |---------|--------|------|
 | **UnKat** | [View Report](https://reports.electisec.com/2025-06-UnKat) | Public |
-| **CAP Premainnet Vault** | [Initial Report](https://reports.electisec.com/2025-03-CAP-PremainnetVault) • [Update](https://reports.electisec.com/2025-05-CAP-PremainnetVault-update) | Public |
-| **Goldilocks** | [View Report](https://reports.electisec.com/2025-03-Goldilocks-ivault4626) | Public |
+| **CAP Premainnet Vault** | | |
+| ├─ Initial Report | [View Report](https://reports.electisec.com/2025-03-CAP-PremainnetVault) | Public |
+| └─ Update | [View Report](https://reports.electisec.com/2025-05-CAP-PremainnetVault-update) | Public |
+| **Goldilocks Vault4626** | [View Report](https://reports.electisec.com/2025-03-Goldilocks-ivault4626) | Public |
 
 ---
 
@@ -52,8 +54,6 @@ Security audits done for yAudit/Electisec
 
 ### 📊 Summary
 
-- **Total Audits**: 20+ projects
-- **Public Reports**: 15+
-- **Private Reports**: 3
+- **Total Audits**: 24 audits
 - **Years Covered**: 2023-2025
 - **Focus Areas**: DeFi protocols, yield strategies, governance systems, and vault implementations
