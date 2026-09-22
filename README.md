@@ -47,6 +47,13 @@ Comprehensive security audits conducted by yAudit/Electisec
 | ├─ Initial Report | [View Report](https://reports.electisec.com/2023-01-TempleDAO-Origami) | Public |
 | └─ Recheck | [View Report](https://reports.electisec.com/2023-02-TempleDAO-Origami-Recheck) | Public |
 | **LlamaPay V2** | [View Report](https://reports.electisec.com/2022-12-LlamaPayV2) | Public |
+
+---
+
+## 📅 2022
+
+| Project | Report | Type |
+|---------|--------|------|
 | **GET Protocol Staking** | [View Report](https://reports.electisec.com/2022-12-GET-Protocol-Staking) | Public |
 | **Yearn Stargate Strategy** | [View Report](https://reports.electisec.com/2022-11-Yearn-Stargate-Strategy) | Public |
 
@@ -55,5 +62,5 @@ Comprehensive security audits conducted by yAudit/Electisec
 ### 📊 Summary
 
 - **Total Audits**: 24 audits
-- **Years Covered**: 2023-2025
+- **Years Covered**: 2022-2025
 - **Focus Areas**: DeFi protocols, yield strategies, governance systems, and vault implementations
